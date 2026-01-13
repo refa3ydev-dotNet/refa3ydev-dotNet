@@ -1,93 +1,71 @@
-<!-- =========================
-     GitHub Profile README
-     User: refa3ydev-dotNet
-========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Omar%20Refaey&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20.NET%20%2B%20SQL%20Server%20%E2%80%A2%20React%20%2B%20TypeScript&descAlign=50&descAlignY=62" />
+  <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/hero.svg" alt="hero" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend%3A+.NET+%7C+SQL+Server;Frontend%3A+React+%7C+TypeScript;Clean+Architecture+%7C+3-Tier+Architecture;Building+scalable+and+maintainable+web+applications" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-refaey-b20081253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-omar--refaey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/omar-refaey-b20081253/">
+    <img src="https://img.shields.io/badge/LinkedIn-omar--refaey-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:refa3y.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-refa3y.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-refa3y.dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/refa3ydev-dotNet" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-refa3ydev--dotNet-111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/refa3ydev-dotNet">
+    <img src="https://img.shields.io/badge/GitHub-refa3ydev--dotNet-111?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About
-Full-Stack Developer focused on building **scalable**, **maintainable** web applications.
-I work primarily with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + TypeScript** on the frontend.
-I care about clean architecture, performance, and writing code that stays easy to evolve over time.
+## Who I am
+Full-Stack Developer building **production-ready web applications** with a strong backend foundation.
+I ship features with **clean architecture**, solid database design, and UI that feels fast and intentional.
 
-- **Backend:** C#, .NET, ASP.NET, REST APIs, SQL Server  
+**Core stack**
+- **Backend:** C#, .NET / ASP.NET, REST APIs, SQL Server  
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Architecture:** Clean Architecture, 3-Tier, Repository Pattern  
-- **Practices:** Code quality, debugging, performance optimization  
 
 ---
 
-## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,tailwind,git,github,visualstudio,vscode" />
-</p>
+## What I build
+- 🧩 **Business-ready systems** (auth, roles, dashboards, CRUD done right)
+- ⚙️ **APIs that scale** (clean contracts, validation, error handling, performance)
+- 🗃️ **Databases that behave** (indexes, queries, relationships, migrations mindset)
+- ✨ **Modern UI** (component-driven, responsive, predictable state)
 
 ---
 
-## Featured Projects
-> Update the repository links below with your actual project repos (and pin them on your GitHub profile).
+## Engineering principles (my non-negotiables)
+- Readability > cleverness  
+- Small modules, clear boundaries  
+- Performance is a feature  
+- Database design is part of the product  
+- Ship, measure, improve  
 
-### 🎬 Movies Web App
-- ASP.NET MVC using a 3-Tier structure (Presentation / BLL / DAL)
-- Focus: maintainability, scalability, clean separation of concerns  
+---
+
+## Spotlight (featured builds)
+> Replace links with your real repos (and pin them on your GitHub profile)
+
+### 🎬 Movies Web App — ASP.NET MVC (3-Tier)
+**Goal:** cinema-style system with clear separation (Presentation / BLL / DAL)  
+**Highlights:** DTO mapping, repository pattern, maintainable structure  
 🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
 
-### 🛒 TeckXpress (E-commerce Web App)
-- Full-stack e-commerce application with structured backend and modern UI
-- Focus: performance, clean UI, scalable features  
-🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
-
-### ✅ Next Project
-- Short description (problem + solution + tech used)  
+### 🛒 TeckXpress — E-commerce Web App
+**Goal:** end-to-end shopping flow with structured backend + modern UI  
+**Highlights:** clean domain structure, scalable features, performance focus  
 🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=refa3ydev-dotNet&show_icons=true&rank_icon=github&cache_seconds=21600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refa3ydev-dotNet&layout=compact&cache_seconds=21600)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=refa3ydev-dotNet)
-
-
----
-
-## Contribution Snake
-> Works after you add the workflow that generates `snake.svg` and creates the `output` branch.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/output/snake.svg" alt="snake animation" />
-</p>
+## Now (current focus)
+- [ ] Deepen .NET (middleware, auth, caching, background jobs)
+- [ ] SQL Server performance (indexes, execution plans, optimization)
+- [ ] System design basics (scalability patterns for real apps)
 
 ---
 
 ## Contact
-- **Email:** refa3y.dev@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/omar-refaey-b20081253/  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
-</p>
+📩 **refa3y.dev@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/omar-refaey-b20081253/
