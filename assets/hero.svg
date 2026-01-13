@@ -81,7 +81,7 @@
 
     <!-- image (clipped circle) -->
     <image
-      href="./assets/avatar.png"
+      href="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/avatar.png"
       x="4" y="4" width="172" height="172"
       clip-path="url(#avatarClip)"
       preserveAspectRatio="xMidYMid slice"
@@ -89,4 +89,5 @@
   </g>
 
 </svg>
+
 
