@@ -1,4 +1,7 @@
-<!-- ====== GitHub Profile README | refa3ydev-dotNet ====== -->
+<!-- =========================
+     GitHub Profile README
+     User: refa3ydev-dotNet
+========================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Omar%20Refaey&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20.NET%20%2B%20SQL%20Server%20%E2%80%A2%20React%20%2B%20TypeScript&descAlign=50&descAlignY=62" />
@@ -22,34 +25,34 @@
 
 ---
 
-## 👨‍💻 About
+## About
 Full-Stack Developer focused on building **scalable**, **maintainable** web applications.
 I work primarily with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + TypeScript** on the frontend.
 I care about clean architecture, performance, and writing code that stays easy to evolve over time.
 
-- Backend: **C#, .NET, ASP.NET, REST APIs, SQL Server**
-- Frontend: **React, TypeScript, Tailwind CSS**
-- Architecture: **Clean Architecture, 3-Tier, Repository Pattern**
-- Practices: **Code quality, debugging, performance optimization**
+- **Backend:** C#, .NET, ASP.NET, REST APIs, SQL Server  
+- **Frontend:** React, TypeScript, Tailwind CSS  
+- **Architecture:** Clean Architecture, 3-Tier, Repository Pattern  
+- **Practices:** Code quality, debugging, performance optimization  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,tailwind,git,github,visualstudio,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-> Replace the links below with your actual repositories (and pin them on GitHub)
+## Featured Projects
+> Update the repository links below with your actual project repos (and pin them on your GitHub profile).
 
 ### 🎬 Movies Web App
-- ASP.NET MVC using 3-Tier structure (Presentation / BLL / DAL)
-- Focus: clean separation, maintainability, scalable design  
+- ASP.NET MVC using a 3-Tier structure (Presentation / BLL / DAL)
+- Focus: maintainability, scalability, clean separation of concerns  
 🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
 
-### 🛒 TeckXpress (E-commerce)
+### 🛒 TeckXpress (E-commerce Web App)
 - Full-stack e-commerce application with structured backend and modern UI
 - Focus: performance, clean UI, scalable features  
 🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
@@ -60,7 +63,7 @@ I care about clean architecture, performance, and writing code that stays easy t
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=refa3ydev-dotNet&show_icons=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refa3ydev-dotNet&layout=compact" />
@@ -72,9 +75,17 @@ I care about clean architecture, performance, and writing code that stays easy t
 
 ---
 
-## 🤝 Contact
-- Email: **refa3y.dev@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/omar-refaey-b20081253/**
+## Contribution Snake
+> Works after you add the workflow that generates `snake.svg` and creates the `output` branch.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## Contact
+- **Email:** refa3y.dev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/omar-refaey-b20081253/  
 
 ---
 
