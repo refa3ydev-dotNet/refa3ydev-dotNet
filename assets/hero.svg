@@ -81,7 +81,7 @@
 
     <!-- image (clipped circle) -->
     <image
-      href="../assets/avatar.png"
+      href="./assets/avatar.png"
       x="4" y="4" width="172" height="172"
       clip-path="url(#avatarClip)"
       preserveAspectRatio="xMidYMid slice"
@@ -89,3 +89,4 @@
   </g>
 
 </svg>
+
