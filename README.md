@@ -1,3 +1,8 @@
+<!-- =========================================
+   Omar Refaey | GitHub Profile README
+   User: refa3ydev-dotNet
+========================================= -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/avatar.png" width="140" alt="avatar" />
 </p>
@@ -25,10 +30,13 @@
 ---
 
 ## About
-Full-Stack Developer focused on building **scalable**, **maintainable** web applications using:
+Full-Stack Developer focused on building **scalable**, **maintainable** web applications.
+I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + TypeScript** on the frontend.
+
 - **Backend:** C#, .NET / ASP.NET, SQL Server, REST APIs  
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Architecture:** Clean Architecture, 3-Tier, Repository Pattern  
+- **Practices:** Code quality, debugging, performance optimization  
 
 ---
 
@@ -40,18 +48,25 @@ Full-Stack Developer focused on building **scalable**, **maintainable** web appl
 ---
 
 ## Featured Projects
+> Replace `REPO_NAME` with your real repositories and pin them on your GitHub profile.
+
 - 🎬 **Movies Web App** — ASP.NET MVC (3-Tier)  
   🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
 
 - 🛒 **TeckXpress** — E-commerce Web App  
   🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
 
+- ✅ **Next Project** — short description  
+  🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
+
 ---
 
 ## Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=refa3ydev-dotNet)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=refa3ydev-dotNet&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=21600)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=refa3ydev-dotNet&layout=compact&hide_border=true&cache_seconds=21600)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=refa3ydev-dotNet&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=refa3ydev-dotNet&theme=github_dark)
 
 ---
 
