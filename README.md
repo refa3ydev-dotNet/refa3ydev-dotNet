@@ -63,15 +63,14 @@ I care about clean architecture, performance, and writing code that stays easy t
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=refa3ydev-dotNet&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refa3ydev-dotNet&layout=compact" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=refa3ydev-dotNet" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=refa3ydev-dotNet&show_icons=true&rank_icon=github&cache_seconds=21600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refa3ydev-dotNet&layout=compact&cache_seconds=21600)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=refa3ydev-dotNet)
+
 
 ---
 
