@@ -55,6 +55,11 @@ Full-Stack Developer focused on building **scalable**, **maintainable** web appl
 
 ---
 
+## Contribution Snake 🐍
+<img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/output/snake.svg" alt="snake animation" />
+
+---
+
 ## Contact
 - **Email:** refa3y.dev@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/omar-refaey-b20081253/
