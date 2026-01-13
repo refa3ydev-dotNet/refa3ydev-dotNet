@@ -68,7 +68,7 @@
   <rect x="490" y="82" width="10" height="44" fill="rgba(255,255,255,0.75)">
     <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;0;1"/>
   </rect>
-    <!-- avatar -->
+  <!-- avatar -->
   <g transform="translate(980,50)">
     <defs>
       <clipPath id="avatarClip">
@@ -89,5 +89,6 @@
   </g>
 
 </svg>
+
 
 
