@@ -74,7 +74,10 @@ I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + 
 <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/output/snake.svg" alt="snake animation" />
 
 ---
+## Metrics
+<img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/metrics.svg" alt="metrics" />
 
+---
 ## Contact
 - **Email:** refa3y.dev@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/omar-refaey-b20081253/
