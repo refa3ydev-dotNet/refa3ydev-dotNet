@@ -51,13 +51,13 @@ I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + 
 > Replace `REPO_NAME` with your real repositories and pin them on your GitHub profile.
 
 - 🎬 **Movies Web App** — ASP.NET MVC (3-Tier)  
-  🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
+  🔗 https://github.com/refa3ydev-dotNet/Cinema-WepApp
 
 - 🛒 **TeckXpress** — E-commerce Web App  
-  🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
+  🔗 https://github.com/Marwan-Farouk/TechXpress-Project
 
-- ✅ **Next Project** — short description  
-  🔗 https://github.com/refa3ydev-dotNet/REPO_NAME
+- ✅ **Travel Management System** — Travel desktop java app
+  🔗 https://github.com/refa3ydev-dotNet/Travel_Management_System
 
 ---
 
