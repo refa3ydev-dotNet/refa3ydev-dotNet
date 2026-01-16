@@ -62,10 +62,11 @@ I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + 
 ---
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=refa3ydev-dotNet)                            ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=refa3ydev-dotNet&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=refa3ydev-dotNet&theme=github_dark)      ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=refa3ydev-dotNet&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=refa3ydev-dotNet)                            
 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=refa3ydev-dotNet&theme=github_dark)
+
 
 ---
 
