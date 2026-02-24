@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/hero.svg" alt="hero" /> 
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=920&lines=Full-Stack+Developer;Backend%3A+.NET+%7C+SQL+Server;Frontend%3A+React+%7C+TypeScript;Clean+Architecture+%7C+3-Tier;Building+scalable+and+maintainable+web+apps" />
