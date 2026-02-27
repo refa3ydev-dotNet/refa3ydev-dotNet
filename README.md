@@ -1,7 +1,7 @@
 <!-- =========================================
    Omar Refaey | GitHub Profile README
    User: refa3ydev-dotNet
-========================================= -->
+========================================= --> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/avatar.png" width="140" alt="avatar" />  
@@ -48,7 +48,6 @@ I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + 
 ---
 
 ## Featured Projects
-> Replace `REPO_NAME` with your real repositories and pin them on your GitHub profile.
 
 - 🎬 **Movies Web App** — ASP.NET MVC (3-Tier)  
   🔗 https://github.com/refa3ydev-dotNet/Cinema-WepApp
