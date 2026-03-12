@@ -28,7 +28,7 @@
 </p>
 
 ---
-
+ 
 ## About
 Full-Stack Developer focused on building **scalable**, **maintainable** web applications.
 I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + TypeScript** on the frontend.
