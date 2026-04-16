@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-refaey-b20081253/">
+  <a href="https://www.linkedin.com/in/omar-ayman-refay/">
     <img src="https://img.shields.io/badge/LinkedIn-omar--refaey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:refa3y.dev@gmail.com">
@@ -79,4 +79,4 @@ I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + 
 ---
 ## Contact
 - **Email:** refa3y.dev@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/omar-refaey-b20081253/
+- **LinkedIn:** https://www.linkedin.com/in/omar-ayman-refay/
