@@ -4,7 +4,7 @@
 ========================================= -->  
 
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/avatar.png" width="140" alt="avatar" /> 
+  <img src="https://raw.githubusercontent.com/refa3ydev-dotNet/refa3ydev-dotNet/main/assets/avatar.png" width="140" alt="avatar" />  
 </p>
  
 <p align="center"> 
@@ -33,7 +33,7 @@
 Full-Stack Developer focused on building **scalable**, **maintainable** web applications.
 I work with **.NET / ASP.NET** and **SQL Server** on the backend, and **React + TypeScript** on the frontend.
 
-- **Backend:** C#, .NET / ASP.NET, SQL Server, REST APIs  
+- **Backend:** C#, .NET / ASP.NET, SQL Server, REST API 
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Architecture:** Clean Architecture, 3-Tier, Repository Pattern  
 - **Practices:** Code quality, debugging, performance optimization  
