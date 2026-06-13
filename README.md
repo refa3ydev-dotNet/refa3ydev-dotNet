@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I build clean, scalable, and maintainable web applications with <b>.NET</b>, <b>SQL Server</b>, <b>React</b>, and <b>TypeScript</b>.
+  I build clean, scalable, and maintainable web applications with <b>.NET</b>, <b>SQL Server</b>, <b>React</b>, and <b>TypeScript</b>. 
 </p>
  
 <p align="center">
