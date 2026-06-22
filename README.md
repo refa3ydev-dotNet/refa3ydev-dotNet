@@ -15,7 +15,7 @@
 
 <p align="center">
   I build clean, scalable, and maintainable web applications with <b>.NET</b>, <b>SQL Server</b>, <b>React</b>, and <b>TypeScript</b>. 
-</p>
+</p> 
  
 <p align="center">
   <a href="mailto:refa3y.dev@gmail.com">Email</a>
